@@ -1,5 +1,5 @@
 body {
-    background-color: #fcfcfc; /* A soft cream/beige background */
+    background-color: ivory; /* A soft cream/beige background */
     color: #4a4a4a; /* Dark gray for readability */
     font-family: Georgia, serif; /* A classic, vintage-style font */
     margin: 0 auto;
@@ -15,7 +15,7 @@ header {
 }
 
 h1 {
-    color: #003300;
+    color: #CC5500;
     font-size: 3rem;
     margin-bottom: 0;
 }
@@ -37,7 +37,7 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #4a4a4a;
+    color: #CC5500;
     padding: 5px 10px;
     transition: color 0.3s;
 }
@@ -70,3 +70,6 @@ footer {
     color: #888;
 }
 
+header > p {
+    color: #CC5500;
+}
