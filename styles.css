@@ -64,10 +64,13 @@ hr {
 }
 
 footer {
+    
+   padding-top: 20px;
     text-align: center;
     font-size: 0.8rem;
-    padding-top: 20px;
+    font-style: italic;
     color: orangered;
+   
 }
 
 header > p {
