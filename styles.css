@@ -22,7 +22,7 @@ h1 {
 
 h2, h3 {
     font-family: Arial, Helvetica, sans-serif; /* A clean sans-serif for headings */
-    color: #6d6a5d; /* A subtle olive/brown tone */
+    color: #895129; /* A subtle olive/brown tone */
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
 }
@@ -59,7 +59,7 @@ ul {
 hr {
     border: none;
     height: 1px;
-    background-color: #eee;
+    background-color: #000;
     margin: 40px 0;
 }
 
