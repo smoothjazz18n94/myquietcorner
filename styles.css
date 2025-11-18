@@ -1,0 +1,72 @@
+body {
+    background-color: #fcfcfc; /* A soft cream/beige background */
+    color: #4a4a4a; /* Dark gray for readability */
+    font-family: Georgia, serif; /* A classic, vintage-style font */
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 900px; /* Keeps the content from spreading too wide */
+    line-height: 1.6; /* Improves readability of paragraphs */
+}
+
+header {
+    text-align: center;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #ddd;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 0;
+}
+
+h2, h3 {
+    font-family: Arial, Helvetica, sans-serif; /* A clean sans-serif for headings */
+    color: #6d6a5d; /* A subtle olive/brown tone */
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #4a4a4a;
+    padding: 5px 10px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+section {
+    padding: 40px 0;
+}
+
+ul {
+    list-style-type: square; /* Simple list style */
+    padding-left: 20px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #eee;
+    margin: 40px 0;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8rem;
+    padding-top: 20px;
+    color: #888;
+}
+
